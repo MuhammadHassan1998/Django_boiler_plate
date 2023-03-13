@@ -12,7 +12,7 @@ This is a django boiler plate with proper code structure and pre-commit hooks. P
 1. Clone the Repo
 
     ```bash
-    git pull origin https://github.com/MuhammadHassan1998/storage_unit.git
+    git pull origin https://github.com/MuhammadHassan1998/Django_boiler_plate.git
     cd storage_unit
     ```
 
