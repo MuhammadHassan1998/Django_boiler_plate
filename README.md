@@ -1,6 +1,6 @@
 # Django Boiler Plate
 
-This is a project to manage the stores for renting and usage
+This is a django boiler plate with proper code structure and pre-commit hooks. Poetry is used for dependency management.
 
 ## Requirements
 
