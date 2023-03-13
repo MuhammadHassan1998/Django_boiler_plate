@@ -1,4 +1,4 @@
-# storage_unit
+# Django Boiler Plate
 
 This is a project to manage the stores for renting and usage
 
